@@ -1,0 +1,74 @@
+[
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: HIGH\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: OTHER\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: OTHER\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: HIGH\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: MEDIUM\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "index: 0\nfinish_reason: SAFETY\nsafety_ratings {\n  category: HARM_CATEGORY_SEXUALLY_EXPLICIT\n  probability: HIGH\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HATE_SPEECH\n  probability: NEGLIGIBLE\n}\nsafety_ratings {\n  category: HARM_CATEGORY_HARASSMENT\n  probability: LOW\n}\nsafety_ratings {\n  category: HARM_CATEGORY_DANGEROUS_CONTENT\n  probability: NEGLIGIBLE\n}\n"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    },
+    {
+        "error_message": "'list' object is not callable"
+    }
+]
